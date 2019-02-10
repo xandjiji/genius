@@ -10,4 +10,4 @@ A simple project to implement and use data structures.
   - Basic operations were implemented (insert, remove, ...)
   - Graphic interface was implemented using [Allegro](https://liballeg.org/download.html) (already included)
   
-An executable is included ``genius.exe```
+An executable is included ```genius.exe```
