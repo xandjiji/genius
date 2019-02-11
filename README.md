@@ -2,7 +2,9 @@
 
 A simple project to implement and use data structures.
 
-![game1](https://i.imgur.com/SVzb9VB.png)
+<p align="center">
+  <img src="https://i.imgur.com/SVzb9VB.png">
+</p>
 
 ### Details
 
